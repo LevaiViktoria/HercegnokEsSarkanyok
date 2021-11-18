@@ -41,5 +41,6 @@ public class HercegnoContoller {
         service.deleteHercegno(id);
     }
 
+    
 
 }
